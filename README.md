@@ -50,4 +50,5 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 ### Sources Cited
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/)<br/>
-[Solving Method for Pyraminx Duo](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)
+[Solving Method for Pyraminx Duo](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)<br/>
+[Solving Method for Pyraminx](https://www.youtube.com/watch?v=2H0FUvaaUsI)
