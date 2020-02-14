@@ -1,6 +1,7 @@
 # Algorithms Exploration - Cubing Workflow
+### Edward Mo
 
-![Pyraminx Duo](https://a.allegroimg.com/s128/11e4a6/31c0f8e54666b6abc3ffb708b8b1)
+<img align="left" src="https://a.allegroimg.com/s128/11e4a6/31c0f8e54666b6abc3ffb708b8b1">
 
 #### My Current Abilities in Cubing
 Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
