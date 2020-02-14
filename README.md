@@ -5,6 +5,10 @@
 
 #### My Current Abilities in Cubing
 Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
+text
+text
+text
+text
 
 #### Average Recorded Times (2/13/20)
 |Average|Time (seconds)|
