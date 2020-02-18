@@ -8,7 +8,7 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 ### Average Times for Pyraminx Duo
 <table>
-<tr><th>(2/13/20)</th><th>(2/14/20)</th></tr>
+<tr><th>(2/13/20)</th><th>(2/14/20)</th><th>(2/14/20)</th></tr>
 <tr><td>
 
 |Average|Time (seconds)|
@@ -16,6 +16,14 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | ao5 | 5.69 |
 | ao12 | 6.67 |
 | ao25 | 6.83 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 4.86 |
+| ao12 | 5.49 |
+| ao25 | 5.85 |
 
 </td><td>
 
