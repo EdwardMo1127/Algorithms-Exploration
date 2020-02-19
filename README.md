@@ -55,9 +55,9 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 35.50 |
+| ao12 | 44.54 |
+| ao25 | 51.27 |
 
 </td><td>
 
