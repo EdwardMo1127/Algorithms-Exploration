@@ -77,7 +77,34 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 </td></tr> </table>
 
+### Average Times for Pyraminx (One-Handed)
+<table>
+<tr><th>(2/24/20)</th></tr>
+<tr><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td></tr> </table>
+
+### Average Times for 2x2x2
+<table>
+<tr><th>(2/25/20)</th></tr>
+<tr><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td></tr> </table>
+
 ### Sources Cited
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/)<br/>
 [Solving Method for Pyraminx Duo](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)<br/>
 [Solving Method for Pyraminx](https://www.youtube.com/watch?v=2H0FUvaaUsI)
+[Solving Method for 2x2x2](https://www.youtube.com/watch?v=bCn8TajrPqc)
