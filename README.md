@@ -1,10 +1,10 @@
 # Algorithms Exploration - Cubing Workflow
 ### Edward Mo
 
-<img align="right" src="https://a.allegroimg.com/s128/11e4a6/31c0f8e54666b6abc3ffb708b8b1">
-
 ### My Current Abilities in Cubing
 Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
+
+<img align="right" src="https://a.allegroimg.com/s128/11e4a6/31c0f8e54666b6abc3ffb708b8b1">
 
 ### Average Times for Pyraminx Duo
 <table>
@@ -48,6 +48,8 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 </td></tr> </table>
 
+<img align="right" src="https://b3h2.scene7.com/is/image/BedBathandBeyond/172580564703817p?$imagePLP$&wid=256">
+
 ### Average Times for Pyraminx
 <table>
 <tr><th>(2/19/20)</th><th>(2/20/20)</th><th>(2/21/20)</th></tr>
@@ -90,6 +92,8 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 </td></tr> </table>
 
+<img align="right" src="https://lh3.googleusercontent.com/proxy/vLzd6te3pTxi10IcXTeJcFESa3P8dx8H0y0l3vZUe_1WPK65oJiMfNAKgAsq3JF1dT15qzJXoSpq-7qUHSUUqGC8NHLv7m207C8vZTSPXHlZ-WnhA2rSRmmHfckBBk73UX-4ydb1o42bnLybXt_eROG9EGhEhlSXqyekifplRHwFwyB96V6AMQ">
+
 ### Average Times for 2x2x2
 <table>
 <tr><th>(2/25/20)</th></tr>
@@ -106,5 +110,5 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 ### Sources Cited
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/)<br/>
 [Solving Method for Pyraminx Duo](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)<br/>
-[Solving Method for Pyraminx](https://www.youtube.com/watch?v=2H0FUvaaUsI)
+[Solving Method for Pyraminx](https://www.youtube.com/watch?v=2H0FUvaaUsI)<br/>
 [Solving Method for 2x2x2](https://www.youtube.com/watch?v=bCn8TajrPqc)
