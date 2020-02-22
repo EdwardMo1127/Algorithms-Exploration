@@ -4,9 +4,7 @@
 ### My Current Abilities in Cubing
 Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
-<img align="right" src="https://a.allegroimg.com/s128/11e4a6/31c0f8e54666b6abc3ffb708b8b1">
-
-
+<img align="right" src="https://a.allegroimg.com/s128/11e4a6/31c0f8e54666b6abc3ffb708b8b1"><br/><br/>
 
 ### Average Times for Pyraminx Duo
 <table>
@@ -77,9 +75,9 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 28.38 |
+| ao12 | 34.06 |
+| ao25 | 39.86 |
 
 </td></tr> </table>
 
