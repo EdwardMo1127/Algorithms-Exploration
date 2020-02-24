@@ -48,7 +48,7 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 </td></tr> </table>
 
-<img align="right" src="https://lh3.googleusercontent.com/proxy/eO-HSs-wlEtpQb82PH0wTJ3t4cGRKZNvx0x0YxV9Bea_5Iho20z-iSYDWwYy23AR6KoO2Vph0BvP56Wj5xyjW_h-wTQtWZYFaK0hpSut6CJAXPVvHNxeU18GVzvCX_byujouI-fixbWLu5AmoPVEx99Jl6ffXQ2eOAQGE9IqAdKEBNIgAdvDVmmDnaQSekTJ-MajSmAgCbUbp8T9zJ4IWTnRxwfnBmx2ek3-dTQpDQpohBtFdu2mBzkGBm4"><br/><br/>
+<img align="right" src="https://a.allegroimg.com/s128/11c852/955eb28149a4b221042a37cafca7/ORYGINALNA-kostka-ShengShou-Pyraminx"><br/><br/>
 
 ### Average Times for Pyraminx
 <table>
@@ -92,7 +92,7 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 </td></tr> </table>
 
-<img align="right" src="https://lh3.googleusercontent.com/proxy/vLzd6te3pTxi10IcXTeJcFESa3P8dx8H0y0l3vZUe_1WPK65oJiMfNAKgAsq3JF1dT15qzJXoSpq-7qUHSUUqGC8NHLv7m207C8vZTSPXHlZ-WnhA2rSRmmHfckBBk73UX-4ydb1o42bnLybXt_eROG9EGhEhlSXqyekifplRHwFwyB96V6AMQ"><br/><br/>
+<img align="right" src="https://data.apkhere.com/83/com.mc2techservices.pocketcube/2018.03.04/icon.png!s"><br/><br/>
 
 ### Average Times for 2x2x2
 <table>
