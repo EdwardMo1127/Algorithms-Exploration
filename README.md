@@ -128,6 +128,5 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 [Solving Method for Pyraminx Duo](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)<br/>
 [Solving Method for Pyraminx](https://www.youtube.com/watch?v=2H0FUvaaUsI)<br/>
 [Solving Method for 2x2x2](https://www.youtube.com/watch?v=bCn8TajrPqc)<br/>
-[Timer used to record times](https://cubingtime.com/timer)<br/>
-[2x2x2 Algorithm sheet](https://lh3.googleusercontent.com/proxy/mXwpm3YwJbXdCVicAcpXA0IgrsWvjIMZtx-_WdcY7XUrnVCrGM0Xm0pQXHpMkDku_cqChxSC15FeGfdWse9i6rRFKtGfvclON-PXoiv79swngshpuNEWp21nbvcxXeD1JMTtoxGODfC3dRc5kMKYcWbyAQyFV4k)<br/>
-[2x2x2 Last Layer Algorithms](https://jperm.net/algs/2x2/oll)
+[2x2x2 Final Layer Algorithms](https://jperm.net/algs/2x2/oll)<br/>
+[Timer used to record times](https://cubingtime.com/timer)
