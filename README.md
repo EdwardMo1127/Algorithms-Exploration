@@ -123,6 +123,23 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 </td></tr> </table>
 
+### Valid Solve Times for Pyraminx (No Inspection)
+<table>
+<tr><th>(2/26/20)</th></tr>
+<tr><td>
+
+|Solve|Time (seconds)|
+| :---: | :---: |
+| 1 | 0 |
+| 2 | 0 |
+| 3 | 0 |
+| 4 | 0 |
+| 5 | 0 |
+
+</td></tr> </table>
+
+ao3 (remove best and worst time):
+
 ### Sources Cited
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/)<br/>
 [Solving Method for Pyraminx Duo](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)<br/>
