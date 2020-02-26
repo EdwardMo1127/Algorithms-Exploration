@@ -81,14 +81,14 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 ### Average Times for Pyraminx (One-Handed)
 <table>
-<tr><th>(2/25/20)</th></tr>
+<tr><th>(2/26/20)</th></tr>
 <tr><td>
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 72.88 |
+| ao12 | 79.30 |
+| ao25 | 89.42 |
 
 </td></tr> </table>
 
@@ -96,7 +96,7 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 ### Average Times for 2x2x2
 <table>
-<tr><th>(2/24/20)</th><th>(2/26/20)</th><th>(2/27/20)</th></tr>
+<tr><th>(2/24/20)</th><th>(2/25/20)</th><th>(2/27/20)</th></tr>
 <tr><td>
 
 |Average|Time (seconds)|
@@ -109,9 +109,9 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 65.17 |
+| ao12 | 68.94 |
+| ao25 | 72.55 |
 
 </td><td>
 
