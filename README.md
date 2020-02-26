@@ -135,10 +135,9 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | 3 | 0 |
 | 4 | 0 |
 | 5 | 0 |
+| ao3 | 0 |
 
 </td></tr> </table>
-
-ao3 (remove best and worst time):
 
 ### Sources Cited
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/)<br/>
