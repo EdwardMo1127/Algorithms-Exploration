@@ -135,7 +135,23 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | 3 | 42.124 |
 | 4 | 27.131 |
 | 5 | 33.554 |
-| ao3 | 32.720 |
+| **ao3** | **32.720** |
+
+</td></tr> </table>
+
+### Valid Solve Times for 2x2x2 (No Inspection)
+<table>
+<tr><th>(2/27/20)</th></tr>
+<tr><td>
+
+|Solve|Time (seconds)|
+| :---: | :---: |
+| 1 | 0.00 |
+| 2 | 0.00 |
+| 3 | 0.00 |
+| 4 | 0.00 |
+| 5 | 0.00 |
+| **ao3** | **0.00** |
 
 </td></tr> </table>
 
