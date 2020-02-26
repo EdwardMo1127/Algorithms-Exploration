@@ -130,12 +130,12 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 |Solve|Time (seconds)|
 | :---: | :---: |
-| 1 | 0 |
-| 2 | 0 |
-| 3 | 0 |
-| 4 | 0 |
-| 5 | 0 |
-| ao3 | 0 |
+| 1 | 37.474 |
+| 2 | 25.250 |
+| 3 | 42.124 |
+| 4 | 27.131 |
+| 5 | 33.554 |
+| ao3 | 32.720 |
 
 </td></tr> </table>
 
