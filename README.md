@@ -117,9 +117,25 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 52.77 |
+| ao12 | 54.26 |
+| ao25 | 58.83 |
+
+</td></tr> </table>
+
+### Valid Solve Times for 2x2x2 (No Inspection)
+<table>
+<tr><th>(2/25/20)</th></tr>
+<tr><td>
+
+|Solve|Time (seconds)|
+| :---: | :---: |
+| 1 | 61.536 |
+| 2 | 59.224 |
+| 3 | 55.875 |
+| 4 | 69.107 |
+| 5 | DNF |
+| **ao3** | **63.289** |
 
 </td></tr> </table>
 
@@ -139,26 +155,12 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 </td></tr> </table>
 
-### Valid Solve Times for 2x2x2 (No Inspection)
-<table>
-<tr><th>(2/27/20)</th></tr>
-<tr><td>
-
-|Solve|Time (seconds)|
-| :---: | :---: |
-| 1 | 0.00 |
-| 2 | 0.00 |
-| 3 | 0.00 |
-| 4 | 0.00 |
-| 5 | 0.00 |
-| **ao3** | **0.00** |
-
-</td></tr> </table>
-
 ### Sources Cited
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/)<br/>
 [Solving Method for Pyraminx Duo](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)<br/>
 [Solving Method for Pyraminx](https://www.youtube.com/watch?v=2H0FUvaaUsI)<br/>
 [Solving Method for 2x2x2](https://www.youtube.com/watch?v=bCn8TajrPqc)<br/>
 [2x2x2 Final Layer Algorithms](https://jperm.net/algs/2x2/oll)<br/>
+[2x2x2 Ortega Method](https://www.youtube.com/watch?v=z2gOUzMmY3w&feature=emb_title)<br/>
+[Finger Tricks Tutorial](https://www.youtube.com/watch?v=wLuVF9Dk3AQ)<br/>
 [Timer used to record times](https://cubingtime.com/timer)
