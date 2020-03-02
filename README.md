@@ -66,17 +66,17 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 6.67 |
+| ao12 | 6.94 |
+| ao25 | 6.78 |
 
 </td><td>
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 6.67 |
-| ao12 | 6.94 |
-| ao25 | 6.78 |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
 
 </td></tr> </table>
 
