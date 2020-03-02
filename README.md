@@ -37,8 +37,9 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
+| ao5 | 4.84 |
+| ao12 | 5.36 |
+| ao25 | 5.65 |
 
 </td><td>
 
@@ -46,12 +47,13 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | :---: | :---: |
 | ao5 | 0.00 |
 | ao12 | 0.00 |
+| ao25 | 0.00 |
 
 </td></tr> </table>
 
 ### Average Times for Pyraminx Duo (Blind Solve)
 <table>
-<tr><th>(2/18/20)</th></tr>
+<tr><th>(2/18/20)</th><th>(3/02/20)</th><th>(3/03/20)</th></tr>
 <tr><td>
 
 |Average|Time (seconds)|
@@ -59,6 +61,22 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | ao5 | 7.13 |
 | ao12 | 7.64 |
 | ao25 | 7.75 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 6.67 |
+| ao12 | 6.94 |
+| ao25 | 6.78 |
 
 </td></tr> </table>
 
@@ -97,6 +115,7 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | :---: | :---: |
 | ao5 | 27.72 |
 | ao12 | 30.53 |
+| ao25 | 33.26 |
 
 </td><td>
 
@@ -104,6 +123,7 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | :---: | :---: |
 | ao5 | 25.06 |
 | ao12 | 29.31 |
+| ao25 | 32.57 |
 
 </td></tr> </table>
 
@@ -171,6 +191,7 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | :---: | :---: |
 | ao5 | 54.92 |
 | ao12 | 57.55 |
+| ao25 | 59.13 |
 
 </td><td>
 
@@ -178,6 +199,7 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | :---: | :---: |
 | ao5 | 49.70 |
 | ao12 | 53.29 |
+| ao25 | 55.44 |
 
 </td></tr> </table>
 
