@@ -95,15 +95,15 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
+| ao5 | 27.72 |
+| ao12 | 30.53 |
 
 </td><td>
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
+| ao5 | 25.06 |
+| ao12 | 29.31 |
 
 </td></tr> </table>
 
@@ -169,15 +169,15 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
+| ao5 | 54.92 |
+| ao12 | 57.55 |
 
 </td><td>
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
+| ao5 | 49.70 |
+| ao12 | 53.29 |
 
 </td></tr> </table>
 
