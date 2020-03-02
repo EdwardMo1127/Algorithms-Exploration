@@ -8,7 +8,7 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 ### Average Times for Pyraminx Duo
 <table>
-<tr><th>(2/13/20)</th><th>(2/14/20)</th><th>(2/18/20)</th></tr>
+<tr><th>(2/13/20)</th><th>(2/14/20)</th><th>(2/18/20)</th><th>(3/02/20)</th><th>(3/03/20)</th></tr>
 <tr><td>
 
 |Average|Time (seconds)|
@@ -33,6 +33,20 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | ao12 | 5.32 |
 | ao25 | 5.59 |
 
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+
 </td></tr> </table>
 
 ### Average Times for Pyraminx Duo (Blind Solve)
@@ -52,7 +66,7 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 ### Average Times for Pyraminx
 <table>
-<tr><th>(2/19/20)</th><th>(2/20/20)</th><th>(2/21/20)</th></tr>
+<tr><th>(2/19/20)</th><th>(2/20/20)</th><th>(2/21/20)</th><th>(2/27/20)</th><th>(2/28/20)</th></tr>
 <tr><td>
 
 |Average|Time (seconds)|
@@ -77,6 +91,20 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | ao12 | 34.06 |
 | ao25 | 39.86 |
 
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+
 </td></tr> </table>
 
 ### Average Times for Pyraminx (One-Handed)
@@ -92,11 +120,27 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 </td></tr> </table>
 
+### Valid Solve Times for Pyraminx (No Inspection)
+<table>
+<tr><th>(2/26/20)</th></tr>
+<tr><td>
+
+|Solve|Time (seconds)|
+| :---: | :---: |
+| 1 | 37.474 |
+| 2 | 25.250 |
+| 3 | 42.124 |
+| 4 | 27.131 |
+| 5 | 33.554 |
+| **ao3** | **32.720** |
+
+</td></tr> </table>
+
 <img align="right" src="https://data.apkhere.com/83/com.mc2techservices.pocketcube/2018.03.04/icon.png!s"><br/><br/>
 
 ### Average Times for 2x2x2
 <table>
-<tr><th>(2/24/20)</th><th>(2/25/20)</th><th>(2/27/20)</th></tr>
+<tr><th>(2/24/20)</th><th>(2/25/20)</th><th>(2/27/20)</th><th>(2/29/20)</th><th>(3/01/20)</th></tr>
 <tr><td>
 
 |Average|Time (seconds)|
@@ -121,6 +165,20 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | ao12 | 54.26 |
 | ao25 | 58.83 |
 
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+
 </td></tr> </table>
 
 ### Valid Solve Times for 2x2x2 (No Inspection)
@@ -136,22 +194,6 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | 4 | 69.107 |
 | 5 | DNF |
 | **ao3** | **63.289** |
-
-</td></tr> </table>
-
-### Valid Solve Times for Pyraminx (No Inspection)
-<table>
-<tr><th>(2/26/20)</th></tr>
-<tr><td>
-
-|Solve|Time (seconds)|
-| :---: | :---: |
-| 1 | 37.474 |
-| 2 | 25.250 |
-| 3 | 42.124 |
-| 4 | 27.131 |
-| 5 | 33.554 |
-| **ao3** | **32.720** |
 
 </td></tr> </table>
 
