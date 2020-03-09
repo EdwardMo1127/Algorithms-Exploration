@@ -1,5 +1,6 @@
 # Algorithms Exploration - Cubing Workflow
 ### Edward Mo
+### ICS4U
 
 **The purpose of this page is to record my progress with these puzzles, as well as explore the connections between cubing and computer science.**
 
