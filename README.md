@@ -1,8 +1,7 @@
 # Algorithms Exploration - Cubing Workflow
 ### Edward Mo
 
-### My Current Abilities in Cubing
-Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
+**The purpose of this page is to record my progress with these puzzles, as well as explore the connections between cubing and computer science.**
 
 <img align="right" src="https://a.allegroimg.com/s128/11e4a6/31c0f8e54666b6abc3ffb708b8b1"><br/><br/>
 
@@ -51,6 +50,8 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 </td></tr> </table>
 
+**Personal best: 3.76 seconds**
+
 ### Average Times for Pyraminx Duo (Blind Solve)
 <table>
 <tr><th>(2/18/20)</th><th>(3/02/20)</th><th>(3/03/20)</th></tr>
@@ -79,6 +80,8 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | ao25 | 5.86 |
 
 </td></tr> </table>
+
+**Personal best: 5.13 seconds**
 
 <img align="right" src="https://a.allegroimg.com/s128/11c852/955eb28149a4b221042a37cafca7/ORYGINALNA-kostka-ShengShou-Pyraminx"><br/><br/>
 
@@ -127,6 +130,8 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 
 </td></tr> </table>
 
+**Personal best: 19.24 seconds**
+
 ### Average Times for Pyraminx (One-Handed)
 <table>
 <tr><th>(2/26/20)</th></tr>
@@ -139,6 +144,8 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | ao25 | 89.42 |
 
 </td></tr> </table>
+
+**Personal best: 59.54 seconds**
 
 ### Valid Solve Times for Pyraminx (No Inspection)
 <table>
@@ -202,6 +209,8 @@ Currently, I am able to solve the Pyraminx Duo using the Intermediate Method.
 | ao25 | 55.44 |
 
 </td></tr> </table>
+
+**Personal best: 35.65 seconds**
 
 ### Valid Solve Times for 2x2x2 (No Inspection)
 <table>
