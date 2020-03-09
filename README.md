@@ -228,6 +228,14 @@
 
 </td></tr> </table>
 
+### What I learned
+
+Before this course, I had no idea how to solve a Pyraminx or any other type of cube. I've never been interested in cubing and I didn't really understand how this could relate to computer science. I started my cubing journey with the Pyraminx Duo. It took me a while to wrap my head around the concept of algorithms but I eventually worked it out with the help of some YouTube videos and other classmates. Once I was able to solve the Pyraminx Duo, I moved on to the Pyraminx, then the 2x2x2 cube. The jump from the Pyraminx Duo to the Pyraminx, and from the Pyraminx to the 2x2x2 wasn’t as drastic as I had initially thought. The basic solving method is pretty much the same for all of these cubes, the only difference being the algorithms required to solve them. Learning to solve these cubes helped further develop my understanding of algorithms.
+
+Now, you may be wondering what an algorithm is. By definition, an algorithm is a process or a set of rules to be followed in calculations or other problem-solving operations. An algorithm in terms of cube-solving is a set of movements or instructions done in a specific order to accomplish a certain goal, such as solving one side for example. I used algorithms a lot when solving the cubes. I had to recognize certain patterns in the cube to determine which algorithm I would have to use to solve it. 
+
+In computer science, this knowledge of algorithms can be applied to creating programs. Tasks performed by computers require algorithms. To make a computer do anything, you have to write a computer program, in which you must tell the computer exactly what you want it to do, and how you want to do it. The algorithm is the basic procedure that allows the computer to solve a problem. As with cubing, you want to find the most efficient algorithm for a given task. In conclusion, I think that this assignment was an effective way to introduce algorithms and provide a different way to look at computer science.
+
 ### Sources Cited
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/)<br/>
 [Solving Method for Pyraminx Duo](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)<br/>
