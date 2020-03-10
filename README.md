@@ -232,7 +232,11 @@
 
 For the Pyraminx Duo, I didn't use any specific algorithms as the puzzle is fairly simple and intuitive. I used the Intermediate Method (from the video below) to learn how to solve the Pyraminx Duo. Typically, the first thing I do is to choose a colour and determine which face the colour belongs on. To do this, I look for the face with all three edge pieces touching it. Then, I turn two of those edge pieces to the correct face, making sure that the center piece does not move with it. You may have to move the center piece out of the way before moving the edge pieces. Now I can simply turn the last edge piece with the center piece in the correct spot and the Pyraminx Duo should be solved.
 
-[![Pyraminx Duo](http://img.youtube.com/vi/xRBGC4Bxv1w&feature=emb_title/0.jpg)](http://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)
+[![test one](http://img.youtube.com/vi/xRBGC4Bxv1w&feature=emb_title/0.jpg)](http://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xRBGC4Bxv1w&feature=emb_title
+" target="_blank"><img src="http://img.youtube.com/vi/xRBGC4Bxv1w&feature=emb_title/0.jpg" 
+alt="test two" width="240" height="180" border="10" /></a>
 
 For the Pyraminx, I used the Layer by Layer method. Firstly, I make sure that all the points match up with the correct middle pieces. Then, I am able to solve for one side without the use of algorithms. Although algorithms are extremely useful, they can be difficult and tedious to memorize so I try to use the least amount of them as possible. After one side is solved and all the center pieces are on the correct face, I look around the Pyraminx to see how many edge pieces are in the wrong spots. 
 
