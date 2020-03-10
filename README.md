@@ -238,7 +238,6 @@ For the Pyraminx, I used the Layer by Layer method. Firstly, I make sure that al
 
 - If there are three incorrect edge pieces, I place the solved face down and use the following algorithm: *L’ U L U L’ U L*<br/>
 I use this algorithm until the Pyraminx is either solved or only two edge pieces are in the wrong spots. When there are only two incorrect edge pieces, move on to the next algorithm.
-
 - If there are two incorrect edge pieces, I place the solved face down and use the following algorithm: *R’ L R L’ U L’ U’ L*<br/>
 After using this algorithm once, the Pyraminx should be solved.
 
@@ -247,8 +246,8 @@ After using this algorithm once, the Pyraminx should be solved.
 
 For the 2x2x2, I used the same method as the Pyraminx, the Layer by Layer method. I am currently in the process of learning the [Ortega Method](https://www.youtube.com/watch?v=z2gOUzMmY3w&feature=emb_title) to decrease my times but I haven’t fully mastered this method just yet. As with the Pyraminx, the first step is to solve one side. I typically solve for the white side, without the use of algorithms because I felt like I could solve faster without them and I didn't want to memorize any more algorithms than I needed to. After the white side is solved, the next step is to solve the opposite yellow side. Place the white side down.
 
-If there is at least one yellow piece on the top, rotate the cube so that one of the yellow pieces is in the bottom left corner.
-If there are no yellow pieces on the top, follow the algorithm below until there is at least one yellow piece to put in the bottom left corner.
+- If there is at least one yellow piece on the top, rotate the cube so that one of the yellow pieces is in the bottom left corner.
+- If there are no yellow pieces on the top, follow the algorithm below until there is at least one yellow piece to put in the bottom left corner.
 Follow this algorithm until the yellow side solves, and keep rotating the cube so that there is a yellow piece in the bottom left corner: *R U R' U R U2 R'*
 
 Alternatively, you may follow the algorithms on [this sheet](https://jperm.net/algs/2x2/oll) for a quicker solve as I’ve only memorized one of them.
