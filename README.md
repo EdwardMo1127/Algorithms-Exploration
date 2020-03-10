@@ -232,7 +232,9 @@
 
 For the Pyraminx Duo, I didn't use any specific algorithms as the puzzle is fairly simple and intuitive. I used the Intermediate Method (from the video below) to learn how to solve the Pyraminx Duo. Typically, the first thing I do is to choose a colour and determine which face the colour belongs on. To do this, I look for the face with all three edge pieces touching it. Then, I turn two of those edge pieces to the correct face, making sure that the center piece does not move with it. You may have to move the center piece out of the way before moving the edge pieces. Now I can simply turn the last edge piece with the center piece in the correct spot and the Pyraminx Duo should be solved.
 
-<img src="https://i.ytimg.com/vi/xRBGC4Bxv1w/maxresdefault.jpg" alt="duo" width="100"/>
+
+
+[![pyraminxduo](<img src="https://i.ytimg.com/vi/xRBGC4Bxv1w/maxresdefault.jpg" alt="pyraminxduo" width="400"/>)](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)<br/>
 
 [![pyraminxduo](https://i.ytimg.com/vi/xRBGC4Bxv1w/maxresdefault.jpg)](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)<br/>
 
