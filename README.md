@@ -236,10 +236,10 @@ For the Pyraminx Duo, I didn't use any specific algorithms as the puzzle is fair
 
 For the Pyraminx, I used the Layer by Layer method. Firstly, I make sure that all the points match up with the correct middle pieces. Then, I am able to solve for one side without the use of algorithms. Although algorithms are extremely useful, they can be difficult and tedious to memorize so I try to use the least amount of them as possible. After one side is solved and all the center pieces are on the correct face, I look around the Pyraminx to see how many edge pieces are in the wrong spots. 
 
-If there are three incorrect edge pieces, I place the solved face down and use the following algorithm: L’ U L U L’ U L
+- If there are three incorrect edge pieces, I place the solved face down and use the following algorithm: *L’ U L U L’ U L*<br/>
 I use this algorithm until the Pyraminx is either solved or only two edge pieces are in the wrong spots. When there are only two incorrect edge pieces, move on to the next algorithm.
 
-If there are two incorrect edge pieces, I place the solved face down and use the following algorithm: R’ L R L’ U L’ U’ L
+- If there are two incorrect edge pieces, I place the solved face down and use the following algorithm: *R’ L R L’ U L’ U’ L*<br/>
 After using this algorithm once, the Pyraminx should be solved.
 
 [![pyraminx](https://i.ytimg.com/vi/2H0FUvaaUsI/maxresdefault.jpg)](https://www.youtube.com/watch?v=2H0FUvaaUsI)
@@ -249,13 +249,13 @@ For the 2x2x2, I used the same method as the Pyraminx, the Layer by Layer method
 
 If there is at least one yellow piece on the top, rotate the cube so that one of the yellow pieces is in the bottom left corner.
 If there are no yellow pieces on the top, follow the algorithm below until there is at least one yellow piece to put in the bottom left corner.
-Follow this algorithm until the yellow side solves, and keep rotating the cube so that there is a yellow piece in the bottom left corner: R U R' U R U2 R'
+Follow this algorithm until the yellow side solves, and keep rotating the cube so that there is a yellow piece in the bottom left corner: *R U R' U R U2 R'*
 
 Alternatively, you may follow the algorithms on [this sheet](https://jperm.net/algs/2x2/oll) for a quicker solve as I’ve only memorized one of them.
 
 Lastly, to solve the whole cube, rotate the top in such a way that one side face is solved. If no side faces can be solved, follow the algorithm below until one side face can be solved.
 
-Make sure that the white side is at the bottom of the cube with the solved side is facing away from you and follow this algorithm: R’ F R’ B’2 R F’ R B’2 R2 B’2 U’
+Make sure that the white side is at the bottom of the cube with the solved side is facing away from you and follow this algorithm: *R’ F R’ B’2 R F’ R B’2 R2 B’2 U’*<br/>
 After using this algorithm once, the Pyraminx should be solved.
 
 [![2x2x2](https://i.ytimg.com/vi/rJlh5p2wAKA/maxresdefault.jpg)](https://www.youtube.com/watch?v=bCn8TajrPqc)
