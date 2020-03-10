@@ -232,14 +232,9 @@
 
 For the Pyraminx Duo, I didn't use any specific algorithms as the puzzle is fairly simple and intuitive. I used the Intermediate Method (from the video below) to learn how to solve the Pyraminx Duo. Typically, the first thing I do is to choose a colour and determine which face the colour belongs on. To do this, I look for the face with all three edge pieces touching it. Then, I turn two of those edge pieces to the correct face, making sure that the center piece does not move with it. You may have to move the center piece out of the way before moving the edge pieces. Now I can simply turn the last edge piece with the center piece in the correct spot and the Pyraminx Duo should be solved.
 
+<img src="https://i.ytimg.com/vi/xRBGC4Bxv1w/maxresdefault.jpg" alt="duo" width="100"/>
 
-[![duo][1]][2]
-
-[1]:  https://i.ytimg.com/vi/xRBGC4Bxv1w/maxresdefault.jpg
-[2]:  https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title "test three"
-
-[![pyraminxduo](https://i.ytimg.com/vi/xRBGC4Bxv1w/maxresdefault.jpg)](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)
-
+[![pyraminxduo](https://i.ytimg.com/vi/xRBGC4Bxv1w/maxresdefault.jpg)](https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)<br/>
 
 For the Pyraminx, I used the Layer by Layer method. Firstly, I make sure that all the points match up with the correct middle pieces. Then, I am able to solve for one side without the use of algorithms. Although algorithms are extremely useful, they can be difficult and tedious to memorize so I try to use the least amount of them as possible. After one side is solved and all the center pieces are on the correct face, I look around the Pyraminx to see how many edge pieces are in the wrong spots. 
 
@@ -248,7 +243,7 @@ I use this algorithm until the Pyraminx is either solved or only two edge pieces
 
 If there are two incorrect edge pieces, I place the solved face down and use the following algorithm: R’ L R L’ U L’ U’ L
 After using this algorithm once, the Pyraminx should be solved.
-
+<br/>
 
 For the 2x2x2, I used the same method as the Pyraminx, the Layer by Layer method. I am currently in the process of learning the [Ortega Method](https://www.youtube.com/watch?v=z2gOUzMmY3w&feature=emb_title) to decrease my times but I haven’t fully mastered this method just yet. As with the Pyraminx, the first step is to solve one side. I typically solve for the white side, without the use of algorithms because I felt like I could solve faster without them and I didn't want to memorize any more algorithms than I needed to. After the white side is solved, the next step is to solve the opposite yellow side. Place the white side down.
 
