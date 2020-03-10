@@ -228,6 +228,34 @@
 
 </td></tr> </table>
 
+### Methods I used
+
+For the Pyraminx Duo, I didn't use any specific algorithms as the puzzle is fairly simple and intuitive. I used the Intermediate Method (from the video below) to learn how to solve the Pyraminx Duo. Typically, the first thing I do is to choose a colour and determine which face the colour belongs on. To do this, I look for the face with all three edge pieces touching it. Then, I turn two of those edge pieces to the correct face, making sure that the center piece does not move with it. You may have to move the center piece out of the way before moving the edge pieces. Now I can simply turn the last edge piece with the center piece in the correct spot and the Pyraminx Duo should be solved.
+
+[![Pyraminx Duo](http://img.youtube.com/vi/xRBGC4Bxv1w&feature=emb_title/0.jpg)](http://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title)
+
+For the Pyraminx, I used the Layer by Layer method. Firstly, I make sure that all the points match up with the correct middle pieces. Then, I am able to solve for one side without the use of algorithms. Although algorithms are extremely useful, they can be difficult and tedious to memorize so I try to use the least amount of them as possible. After one side is solved and all the center pieces are on the correct face, I look around the Pyraminx to see how many edge pieces are in the wrong spots. 
+
+If there are three incorrect edge pieces, I place the solved face down and use the following algorithm: L’ U L U L’ U L
+I use this algorithm until the Pyraminx is either solved or only two edge pieces are in the wrong spots. When there are only two incorrect edge pieces, move on to the next algorithm.
+
+If there are two incorrect edge pieces, I place the solved face down and use the following algorithm: R’ L R L’ U L’ U’ L
+After using this algorithm once, the Pyraminx should be solved.
+
+
+For the 2x2x2, I used the same method as the Pyraminx, the Layer by Layer method. I am currently in the process of learning the [Ortega Method](https://www.youtube.com/watch?v=z2gOUzMmY3w&feature=emb_title) to decrease my times but I haven’t fully mastered this method just yet. As with the Pyraminx, the first step is to solve one side. I typically solve for the white side, without the use of algorithms because I felt like I could solve faster without them and I didn't want to memorize any more algorithms than I needed to. After the white side is solved, the next step is to solve the opposite yellow side. Place the white side down.
+
+If there is at least one yellow piece on the top, rotate the cube so that one of the yellow pieces is in the bottom left corner.
+If there are no yellow pieces on the top, follow the algorithm below until there is at least one yellow piece to put in the bottom left corner.
+Follow this algorithm until the yellow side solves, and keep rotating the cube so that there is a yellow piece in the bottom left corner: R U R' U R U2 R'
+
+Alternatively, you may follow the algorithms on [this sheet](https://jperm.net/algs/2x2/oll) for a quicker solve as I’ve only memorized one of them.
+
+Lastly, to solve the whole cube, rotate the top in such a way that one side face is solved. If no side faces can be solved, follow the algorithm below until one side face can be solved.
+
+Make sure that the white side is at the bottom of the cube with the solved side is facing away from you and follow this algorithm: R’ F R’ B’2 R F’ R B’2 R2 B’2 U’
+After using this algorithm once, the Pyraminx should be solved.
+
 ### What I learned
 
 Before this course, I had no idea how to solve a Pyraminx or any other type of cube. I've never been interested in cubing and I didn't really understand how this could relate to computer science. I started my cubing journey with the Pyraminx Duo. It took me a while to wrap my head around the concept of algorithms but I eventually worked it out with the help of some YouTube videos and other classmates. Once I was able to solve the Pyraminx Duo, I moved on to the Pyraminx, then the 2x2x2 cube. The jump from the Pyraminx Duo to the Pyraminx, and from the Pyraminx to the 2x2x2 wasn’t as drastic as I had initially thought. The basic solving method is pretty much the same for all of these cubes, the only difference being the algorithms required to solve them. Learning to solve these cubes helped further develop my understanding of algorithms.
