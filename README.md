@@ -241,6 +241,8 @@ I use this algorithm until the Pyraminx is either solved or only two edge pieces
 
 If there are two incorrect edge pieces, I place the solved face down and use the following algorithm: R’ L R L’ U L’ U’ L
 After using this algorithm once, the Pyraminx should be solved.
+
+[![pyraminx](https://i.ytimg.com/vi/2H0FUvaaUsI/maxresdefault.jpg)](https://www.youtube.com/watch?v=2H0FUvaaUsI)
 <br/><br/>
 
 For the 2x2x2, I used the same method as the Pyraminx, the Layer by Layer method. I am currently in the process of learning the [Ortega Method](https://www.youtube.com/watch?v=z2gOUzMmY3w&feature=emb_title) to decrease my times but I haven’t fully mastered this method just yet. As with the Pyraminx, the first step is to solve one side. I typically solve for the white side, without the use of algorithms because I felt like I could solve faster without them and I didn't want to memorize any more algorithms than I needed to. After the white side is solved, the next step is to solve the opposite yellow side. Place the white side down.
@@ -255,6 +257,8 @@ Lastly, to solve the whole cube, rotate the top in such a way that one side face
 
 Make sure that the white side is at the bottom of the cube with the solved side is facing away from you and follow this algorithm: R’ F R’ B’2 R F’ R B’2 R2 B’2 U’
 After using this algorithm once, the Pyraminx should be solved.
+
+[![2x2x2](https://i.ytimg.com/vi/rJlh5p2wAKA/maxresdefault.jpg)](https://www.youtube.com/watch?v=bCn8TajrPqc)
 
 ### What I learned
 
