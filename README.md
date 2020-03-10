@@ -238,7 +238,7 @@ For the Pyraminx, I used the Layer by Layer method. Firstly, I make sure that al
 
 - If there are three incorrect edge pieces, I place the solved face down and use the following algorithm: *L’ U L U L’ U L*<br/>
 I use this algorithm until the Pyraminx is either solved or only two edge pieces are in the wrong spots. When there are only two incorrect edge pieces, move on to the next algorithm.
-- If there are two incorrect edge pieces, I place the solved face down and use the following algorithm: *R’ L R L’ U L’ U’ L*<br/>
+- If there are two incorrect edge pieces, I place the solved face down, have both edge pieces facing me, and use the following algorithm: *R’ L R L’ U L’ U’ L*<br/>
 After using this algorithm once, the Pyraminx should be solved.
 
 [![pyraminx](https://i.ytimg.com/vi/2H0FUvaaUsI/maxresdefault.jpg)](https://www.youtube.com/watch?v=2H0FUvaaUsI)
