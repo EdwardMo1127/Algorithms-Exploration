@@ -238,6 +238,12 @@ For the Pyraminx Duo, I didn't use any specific algorithms as the puzzle is fair
 " target="_blank"><img src="http://img.youtube.com/vi/xRBGC4Bxv1w&feature=emb_title/0.jpg" 
 alt="test two" width="240" height="180" border="10" /></a>
 
+[![duo][1]][2]
+
+[1]:  https://i.ytimg.com/vi/xRBGC4Bxv1w/maxresdefault.jpg
+[2]:  https://www.youtube.com/watch?v=xRBGC4Bxv1w&feature=emb_title "test three"
+
+
 For the Pyraminx, I used the Layer by Layer method. Firstly, I make sure that all the points match up with the correct middle pieces. Then, I am able to solve for one side without the use of algorithms. Although algorithms are extremely useful, they can be difficult and tedious to memorize so I try to use the least amount of them as possible. After one side is solved and all the center pieces are on the correct face, I look around the Pyraminx to see how many edge pieces are in the wrong spots. 
 
 If there are three incorrect edge pieces, I place the solved face down and use the following algorithm: L’ U L U L’ U L
