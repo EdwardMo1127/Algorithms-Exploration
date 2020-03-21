@@ -130,6 +130,50 @@
 
 </td></tr> </table>
 
+<table>
+<tr><th>(3/16/20)</th><th>(3/17/20)</th><th>(3/18/20)</th><th>(3/19/20)</th><th>(3/20/20)</th></tr>
+<tr><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td></tr> </table>
+
 **Personal best: 19.24 seconds**
 
 ### Average Times for Pyraminx (One-Handed)
