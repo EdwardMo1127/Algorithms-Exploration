@@ -136,45 +136,47 @@
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 31.65 |
+| ao12 | 33.23 |
+| ao25 | 37.81 |
 
 </td><td>
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 27.80 |
+| ao12 | 28.56 |
+| ao25 | 32.52 |
 
 </td><td>
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 27.03 |
+| ao12 | 29.12 |
+| ao25 | 34.78 |
 
 </td><td>
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 25.31 |
+| ao12 | 28.70 |
+| ao25 | 33.22 |
 
 </td><td>
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 23.34 |
+| ao12 | 26.67 |
+| ao25 | 30.59 |
 
 </td></tr> </table>
 
-**Personal best: 19.24 seconds**
+**Personal best: 15.68 seconds**
+
+#### Personal best: 15.68 seconds
 
 ### Average Times for Pyraminx (One-Handed)
 <table>
