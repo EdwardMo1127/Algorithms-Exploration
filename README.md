@@ -176,8 +176,6 @@
 
 **Personal best: 15.68 seconds**
 
-#### Personal best: 15.68 seconds
-
 ### Average Times for Pyraminx (One-Handed)
 <table>
 <tr><th>(2/26/20)</th></tr>
