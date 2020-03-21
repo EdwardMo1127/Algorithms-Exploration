@@ -254,6 +254,50 @@
 
 </td></tr> </table>
 
+<table>
+<tr><th>(3/23/20)</th><th>(3/24/20)</th><th>(3/25/20)</th><th>(3/26/20)</th><th>(3/27/20)</th></tr>
+<tr><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td></tr> </table>
+
 **Personal best: 35.65 seconds**
 
 ### Valid Solve Times for 2x2x2 (No Inspection)
