@@ -298,7 +298,7 @@
 
 </td></tr> </table>
 
-**Personal best: 35.65 seconds**
+**Personal best: 32.68 seconds**
 
 ### Valid Solve Times for 2x2x2 (No Inspection)
 <table>
