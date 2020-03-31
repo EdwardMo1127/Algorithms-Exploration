@@ -199,13 +199,13 @@
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 0.00 |
-| ao12 | 0.00 |
-| ao25 | 0.00 |
+| ao5 | 61.08 |
+| ao12 | 66.29 |
+| ao25 | 72.73 |
 
 </td></tr> </table>
 
-**Personal best: 45.48 seconds**
+**Personal best: 42.56 seconds**
 
 ### Valid Solve Times for Pyraminx (No Inspection)
 <table>
