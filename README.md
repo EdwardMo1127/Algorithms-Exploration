@@ -316,6 +316,37 @@
 
 **Personal best: 30.46 seconds**
 
+### Average Times for 2x2x2 (One-Handed)
+<table>
+<tr><th>(4/01/20)</th><th>(4/02/20)</th><th>(4/03/20)</th></tr>
+<tr><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
+</td></tr> </table>
+
+**Personal best: 0.00 seconds**
+
 ### Valid Solve Times for 2x2x2 (No Inspection)
 <table>
 <tr><th>(2/25/20)</th></tr>
