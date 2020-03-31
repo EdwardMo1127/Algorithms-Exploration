@@ -178,7 +178,7 @@
 
 ### Average Times for Pyraminx (One-Handed)
 <table>
-<tr><th>(2/26/20)</th></tr>
+<tr><th>(2/26/20)</th><th>(3/30/20)</th><th>(3/31/20)</th></tr>
 <tr><td>
 
 |Average|Time (seconds)|
@@ -187,9 +187,25 @@
 | ao12 | 79.30 |
 | ao25 | 89.42 |
 
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 65.51 |
+| ao12 | 73.84 |
+| ao25 | 82.26 |
+
+</td><td>
+
+|Average|Time (seconds)|
+| :---: | :---: |
+| ao5 | 0.00 |
+| ao12 | 0.00 |
+| ao25 | 0.00 |
+
 </td></tr> </table>
 
-**Personal best: 59.54 seconds**
+**Personal best: 45.48 seconds**
 
 ### Valid Solve Times for Pyraminx (No Inspection)
 <table>
