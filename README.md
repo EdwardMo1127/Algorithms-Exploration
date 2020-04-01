@@ -323,7 +323,7 @@
 
 |Average|Time (seconds)|
 | :---: | :---: |
-| ao5 | 90.30 |
+| ao5 | 91.30 |
 | ao12 | 99.78 |
 | ao25 | 112.24 |
 
@@ -345,7 +345,7 @@
 
 </td></tr> </table>
 
-**Personal best: 0.00 seconds**
+**Personal best: 83.27 seconds**
 
 ### Valid Solve Times for 2x2x2 (No Inspection)
 <table>
